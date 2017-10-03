@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AFD-38FA
+
+ Directory of C:\GitTest\KAUSHIK
+
+10/03/2017  04:57 PM    <DIR>          .
+10/03/2017  04:57 PM    <DIR>          ..
+10/03/2017  03:17 PM               492 makefile.txt
+10/03/2017  04:57 PM                 0 sat.txt
+               2 File(s)            492 bytes
+               2 Dir(s)  159,872,184,320 bytes free
